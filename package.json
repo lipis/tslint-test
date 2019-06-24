@@ -4,6 +4,6 @@
     "typescript": "3.5.2"
   },
   "scripts": {
-    "fix": "tslint --config tslint.json \"*.ts\" --fix"
+    "format": "tslint --config tslint.json \"*.ts\" --fix"
   }
 }
