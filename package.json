@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "tslint": "5.18.0",
+    "typescript": "3.5.2"
+  },
+  "scripts": {
+    "fix": "tslint --config tslint.json \"*.ts\" --fix"
+  }
+}
